@@ -29,4 +29,8 @@ Le script fonctionne sur un principe de génération aléatoire sécurisée :
 ### 1. Cloner le dépôt
 ```bash
 git clone https://github.com/TON_USERNAME/generateur-mot-de-passe-python.git
+```
+### 2.Accéder au dossier
+```bash
+cd generateur-de-mdp
 ``
