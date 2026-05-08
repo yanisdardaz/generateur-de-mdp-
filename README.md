@@ -34,3 +34,7 @@ git clone https://github.com/TON_USERNAME/generateur-mot-de-passe-python.git
 ```bash
 cd generateur-de-mdp
 ```
+### 3.Exécuté le programme 
+```bash
+python3 generateur_mdp.py
+```
