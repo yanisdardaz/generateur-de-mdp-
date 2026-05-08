@@ -1,37 +1,32 @@
-# 🔐 Générateur de mots de passe
+# 🔐 Générateur de mots de passe — Secure Password Tool
 
-Un générateur de mots de passe sécurisé développé en Python.
+## 📖 Description
 
-## 🚀 Fonctionnalités
+Le **Générateur de mots de passe** est un outil développé en Python permettant de créer des mots de passe robustes et aléatoires.
 
-* Génération de mots de passe aléatoires
-* Longueur personnalisable
-* Utilisation de lettres majuscules, minuscules, chiffres et symboles
-* Léger et rapide
+Il combine différents types de caractères afin d’assurer un bon niveau de sécurité :
+- Lettres majuscules
+- Lettres minuscules
+- Chiffres
+- Symboles
 
-## 🛠️ Installation
+> Projet réalisé dans un cadre d’apprentissage en cybersécurité, mettant en avant les bonnes pratiques de génération de mots de passe sécurisés.
 
-Clone le projet :
+---
 
-git clone https://github.com/TON_USERNAME/generateur-de-mdp.git
+## 🛠️ Fonctionnement
 
-Puis accède au dossier :
+Le script fonctionne sur un principe de génération aléatoire sécurisée :
 
-cd generateur-mot-de-passe-python
+- Création d’un ensemble de caractères (alphabet étendu)
+- Sélection aléatoire des caractères
+- Assemblage selon une longueur définie par l’utilisateur
 
-## ▶️ Utilisation
+---
 
-Lancer le script :
+## 🚀 Installation, clonage et exécution
 
-python3 generateur_mdp.py
-
-## 🔒 Exemple
-
-Mot de passe généré :
-A9#kLp2@Xq
-
-## 📁 Structure du projet
-
-* generateur_mdp.py
-* README.md
-* TODO.md
+### 1. Cloner le dépôt
+```bash
+git clone https://github.com/TON_USERNAME/generateur-mot-de-passe-python.git
+``
