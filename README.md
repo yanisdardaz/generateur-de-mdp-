@@ -13,7 +13,7 @@ Un générateur de mots de passe sécurisé développé en Python.
 
 Clone le projet :
 
-git clone https://github.com/TON_USERNAME/generateur-mot-de-passe-python.git
+git clone https://github.com/TON_USERNAME/generateur-de-mdp.git
 
 Puis accède au dossier :
 
@@ -35,14 +35,3 @@ A9#kLp2@Xq
 * generateur_mdp.py
 * README.md
 * TODO.md
-
-## ⚙️ Améliorations futures
-
-* Ajout d’arguments en ligne de commande (longueur, complexité)
-* Sauvegarde des mots de passe dans un fichier
-* Amélioration de la sécurité avec le module `secrets`
-* Interface utilisateur (CLI ou graphique)
-
-## 👨‍💻 Auteur
-
-Yanis
