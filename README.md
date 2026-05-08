@@ -20,6 +20,7 @@ Il combine différents types de caractères afin d’assurer un bon niveau de s�
 ### 1. Cloner le dépôt
 ```bash
 git clone https://github.com/yanisdardaz/generateur-de-mdp-.git
+```
 ### 2.Accéder au dossier
 ```bash
 cd generateur-de-mdp
